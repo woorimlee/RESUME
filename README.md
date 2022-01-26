@@ -1,6 +1,6 @@
 # 이력서
-
-
+ 
+</br>
 
 ## 소개
 
@@ -15,7 +15,7 @@
    * 미래지향(Futuristic) : 미래에 대한 비전으로 사람들에게 영감을 줍니다. 다가올 몇 개월, 몇 년에 대해 많은 생각을 합니다.
 * 군필 : 의경 만기 전역
 * 취미 : 풋살, 게임, 위스키, 과외, 독서
-* **새로운 것**을 배우는 걸 가장 좋아합니다.
+* **새로운 것**을 배우고 **공유**하는 것을 가장 좋아합니다.
 * Email : and_lamyland@naver.com
 * [네이버 블로그](https://blog.naver.com/and_lamyland)
     * 지식의 공유를 위해 C, Python 등의 언어 개념과, 알고리즘, OS 등을 정리한 블로그입니다.
@@ -64,10 +64,10 @@
 
 ## 사용 가능 언어
 * C++ (보통) : 이미지 전송 및 멀티 채팅이 가능한 서버 & 클라이언트 프로그램, 프로세스 스케줄링 및 동기화 등 리눅스 시스템 프로그래밍 경험.
-* Python (능숙) : 졸음운전 감지 시스템(OpenCV, 조명 영상 처리, K-NN 알고리즘 활용), 텔레그램 봇, 미래 매출액 예상 프로그램 들의 개발 경험.
-* MFC(경험 있음) : 오목 게임, 카드 짝 맞추기 게임 프로그래밍 경험.
+* Python (능숙) : [졸음운전 감지 시스템(OpenCV, 조명 영상 처리, K-NN 알고리즘 활용)](https://github.com/woorimlee/drowsiness-detection), [텔레그램 봇](https://github.com/woorimlee/telegram_upbit), 미래 매출액 예상 프로그램 들의 개발 경험.
+* MFC(경험 있음) : [오목 게임](https://blog.naver.com/and_lamyland/221077503952), [카드 짝 맞추기 게임](https://blog.naver.com/and_lamyland/221079728502) 프로그래밍 경험.
 * Java(경험 있음) : 기본적인 소켓 프로그래밍 경험.
-* C#, Unity2D (경험 있음) : 비행기 슈팅 게임, Flappy Bird, 런 게임 제작 경험.
+* C#, Unity2D (경험 있음) : 비행기 슈팅 게임, [Flappy Bird](https://blog.naver.com/and_lamyland/221466912040), [런 게임](https://blog.naver.com/and_lamyland/221466925023) 제작 경험.
 
 
 
