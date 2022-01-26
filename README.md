@@ -43,7 +43,7 @@
         - 12년 학생회장일 당시에 학과실 리모델링, 최초 학과 주점 및 MT 개최 등의 성과를 교수님들과 학우들로부터 인정받아 13년도에 학생회장을 연임한 경험이 있습니다.
     - 논문 : Drowsiness driving detection
         - 영상처리와(빛 영상 전처리) 지도학습 기반의 안구 검출을 통한 졸음운전 감지 시스템입니다.
-        - 자세한 내용은 [이 링크](https://github.com/woorimlee/drowsiness-detection)에서(깃허브 저장소) 보실 수 있습니다.
+        - 자세한 내용은 [이 링크](https://github.com/woorimlee/drowsiness-detection)에서 보실 수 있습니다.
     - 이동네트워크 연구실 (2018.02 ~ 2018.08)
         - 6개월간 학부 연구생 활동을 하며 NFV 개념을 학습한 경험이 있습니다.
     - 학점
