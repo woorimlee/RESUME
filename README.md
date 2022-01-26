@@ -19,8 +19,8 @@
 * Email : and_lamyland@naver.com
 * [네이버 블로그](https://blog.naver.com/and_lamyland)
     * 지식의 공유를 위해 C, Python 등의 언어 개념과, 알고리즘, OS 등을 정리한 블로그입니다.
-
-![github.png](https://github.com/woorimlee/RESUME/blob/main/images/gh2020.png)
+    * 
+<img src='./images/gh2020.png' width="1200" />
 
 
 
