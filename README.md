@@ -39,10 +39,17 @@
 
 ## 사용 가능 언어
 * C++ (보통) : 이미지 전송 및 멀티 채팅이 가능한 서버 & 클라이언트 프로그램, 프로세스 스케줄링 및 동기화 등 리눅스 시스템 프로그래밍 경험.
-* Python (능수) : [졸음운전 감지 시스템(OpenCV, 조명 영상 처리, K-NN 알고리즘 활용)](https://github.com/woorimlee/drowsiness-detection), [텔레그램 봇](https://github.com/woorimlee/telegram_upbit), [미래 매출액 예상 프로그램](https://github.com/woorimlee/Blooming-business) 등의 개발 경험.
-* MFC(경험 있음) : [오목 게임](https://blog.naver.com/and_lamyland/221077503952), [카드 짝 맞추기 게임](https://blog.naver.com/and_lamyland/221079728502) 프로그래밍 경험.
+* Python (능수) : 
+    * [졸음운전 감지 시스템\(OpenCV, 조명 영상 처리, K-NN 알고리즘 활용\)](https://github.com/woorimlee/drowsiness-detection)
+    * [텔레그램 봇](https://github.com/woorimlee/telegram_upbit)
+    * [미래 매출액 예상 프로그램](https://github.com/woorimlee/Blooming-business) 등의 개발 경험.
+* MFC(경험 있음) : 
+    * [오목 게임](https://blog.naver.com/and_lamyland/221077503952)
+    * [카드 짝 맞추기 게임](https://blog.naver.com/and_lamyland/221079728502) 프로그래밍 경험.
 * Java(경험 있음) : 기본적인 소켓 프로그래밍 경험.
-* C#, Unity2D (경험 있음) : 비행기 슈팅 게임, [Flappy Bird](https://blog.naver.com/and_lamyland/221466912040), [런 게임](https://blog.naver.com/and_lamyland/221466925023) 제작 경험.
+* C#, Unity2D (경험 있음) : 비행기 슈팅 게임
+    * [Flappy Bird](https://blog.naver.com/and_lamyland/221466912040)
+    * [런 게임](https://blog.naver.com/and_lamyland/221466925023) 제작 경험.
 
 
 
